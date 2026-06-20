@@ -84,7 +84,6 @@ export const skills = [
     items: [
       "RAG (Retrieval-Augmented Generation)",
       "LLM Model Training & Fine-tuning",
-      "Vector Embeddings",
       "Prompt Engineering",
       "Semantic Search",
       "Knowledge Base Indexing",
@@ -98,7 +97,6 @@ export const skills = [
       "Gemini",
       "GitHub Copilot",
       "Cursor AI",
-      "ChromaDB / Vector DB",
       "Python (AI/ML)",
     ],
   },
@@ -132,7 +130,7 @@ export const projects = [
     title: "ZWING AI",
     description:
       "Built a RAG-powered LLM assistant trained on ZWING POS domain knowledge — enabling intelligent support for invoices, tax compliance, stock validation, and API debugging across the ZWING ecosystem.",
-    tech: ["Python", "RAG", "LLM", "OpenAI", "Vector DB", "NestJS", "Node.js"],
+    tech: ["Python", "RAG", "LLM", "OpenAI", "NestJS", "Node.js"],
     featured: true,
     responsibilities: [
       "Designed and implemented a RAG (Retrieval-Augmented Generation) pipeline with custom model training on ZWING project documentation and codebase",
@@ -140,7 +138,7 @@ export const projects = [
       "Automated invoice validation — checks invoice correctness, tax calculations, GST compliance, and pricing accuracy",
       "Implemented stock intelligence — verifies inventory levels, stock audit discrepancies, and MRP/pricebook consistency",
       "Developed API debugging capabilities — diagnoses API failures, traces request/response issues, and suggests fixes",
-      "Indexed ZWING domain knowledge base with vector embeddings for semantic search and context-aware responses",
+      "Indexed ZWING domain knowledge base for semantic search and context-aware responses",
       "Fine-tuned LLM prompts and retrieval strategies for accurate, domain-specific answers with reduced hallucinations",
       "Integrated AI assistant with existing ZWING backend services for real-time data validation and troubleshooting",
     ],
