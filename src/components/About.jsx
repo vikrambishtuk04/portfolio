@@ -54,7 +54,7 @@ export default function About() {
               {personalInfo.objective}
             </p>
             <div className="grid grid-cols-2 gap-4">
-              {['PHP', 'Node.js', 'Vue.js', 'NestJS', 'RAG / LLM', 'React.js', 'MySQL'].map((tech, i) => (
+              {['PHP', 'Node.js', 'Vue.js', 'NestJS', 'RAG / LLM', 'React.js', 'MySQL', 'PostgreSQL'].map((tech, i) => (
                 <motion.div
                   key={tech}
                   initial={{ opacity: 0, y: 20 }}

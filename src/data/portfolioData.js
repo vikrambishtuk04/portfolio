@@ -61,7 +61,7 @@ export const skills = [
   },
   {
     category: "Backend",
-    items: ["PHP (Laravel)", "Node.js", "NestJS", "Express.js", "Eloquent ORM"],
+    items: ["PHP (Laravel)", "Node.js", "NestJS", "Express.js", "Eloquent ORM", "PostgreSQL"],
   },
   {
     category: "Frontend",
@@ -69,7 +69,7 @@ export const skills = [
   },
   {
     category: "Database",
-    items: ["MySQL", "MongoDB", "Dexie.js (IndexedDB)"],
+    items: ["MySQL", "MongoDB", "Dexie.js (IndexedDB)", "PostgreSQL"],
   },
   {
     category: "Cloud & DevOps",
