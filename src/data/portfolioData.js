@@ -86,7 +86,6 @@ export const skills = [
       "LLM Model Training & Fine-tuning",
       "Vector Embeddings",
       "Prompt Engineering",
-      "LangChain",
       "Semantic Search",
       "Knowledge Base Indexing",
     ],
@@ -133,7 +132,7 @@ export const projects = [
     title: "ZWING AI",
     description:
       "Built a RAG-powered LLM assistant trained on ZWING POS domain knowledge — enabling intelligent support for invoices, tax compliance, stock validation, and API debugging across the ZWING ecosystem.",
-    tech: ["Python", "RAG", "LLM", "LangChain", "OpenAI", "Vector DB", "NestJS", "Node.js"],
+    tech: ["Python", "RAG", "LLM", "OpenAI", "Vector DB", "NestJS", "Node.js"],
     featured: true,
     responsibilities: [
       "Designed and implemented a RAG (Retrieval-Augmented Generation) pipeline with custom model training on ZWING project documentation and codebase",
